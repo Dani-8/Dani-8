@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is I'm Daniyal — a self-driven developer who's completed courses in Python, Data Science, and Web Development. I build intelligent and visually appealing apps using Flask, TensorFlow, and modern web tools.<br><br>Currently learning React and exploring Git/GitHub automation for real-world project delivery.</p>
+<p align="center">I'm Daniyal — a self-driven developer who's completed courses in Python, Data Science, and Web Development. I build intelligent and visually appealing apps using Flask, TensorFlow, and modern web tools.<br><br>Currently learning React and exploring Git/GitHub automation for real-world project delivery.</p>
 
 ###
 
