@@ -10,7 +10,7 @@
 
 ------
 
-<p align="center">✨ End-to-end web applications with Flask/Django<br>🧠 Deep learning models with TensorFlow<br>💬 NLP projects for text understanding<br>🌐 Currently enrolled in a full-stack web dev<br>⚙️ Exploring Git/GitHub for version control and collaboration</p>
+<p align="left">✨ End-to-end web applications with Flask/Django<br>🧠 Deep learning models with TensorFlow<br>💬 NLP projects for text understanding<br>🌐 Currently enrolled in a full-stack web dev<br>⚙️ Exploring Git/GitHub for version control and collaboration</p>
 
 ------
 
