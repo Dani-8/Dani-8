@@ -7,15 +7,17 @@
 
 </div>
 
-## 🎯 **THE DANIYAL EXPERIENCE**
+## 🎯 **ABOUT ME**
 
-> *"In a world full of developers, be a problem solver. In a world full of coders, be an innovator."*
+> *"Learning, building, and growing every day."*
 
-I don't just write code—**I architect digital experiences** that push boundaries and redefine possibilities. With expertise spanning from **neural networks to full-stack applications**, I transform complex problems into elegant, scalable solutions.
+I'm Daniyal — a **Self-driven Developer** who's passionate about **Web Development**, **Data Science**, and **Python**. I'm building **Web Apps** and exploring **AI Projects** using **Flask**, **TensorFlow**, and **Modern Web Tools**.
 
-🔥 **Currently Mastering**: React ecosystem & Git automation workflows  
-⚡ **Mission**: Bridging the gap between cutting-edge AI and real-world applications  
-🎨 **Philosophy**: Beautiful code is functional art  
+<br> 
+
+🔥 **Currently Learning**: React and exploring Git/GitHub automation  
+⚡ **Focus**: End-to-end web applications with Flask/Django  
+🎨 **Interests**: Deep learning models and NLP projects
 
 ---
 
