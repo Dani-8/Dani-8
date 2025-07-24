@@ -19,6 +19,8 @@ I'm Daniyal — a **Self-driven Developer** who's passionate about **Web Develop
 ⚡ **Focus**: End-to-end web applications with Flask/Django  
 🎨 **Interests**: Deep learning models and NLP projects
 
+🌟 **Jobless but not passionless or unskilled — ready for the right opportunity!**
+
 ---
 
 ## 💎 **MY SKILL**
