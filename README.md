@@ -42,7 +42,7 @@ I don't just write code—**I architect digital experiences** that push boundari
 | 🎨 **Frontend Magic** | 🧠 **AI Innovation** | ⚙️ **Backend Power** |
 |:---:|:---:|:---:|
 | Pixel-perfect UIs that users love | Deep learning models that actually work | Scalable architectures that never break |
-| React components that sing | NLP systems that understand context | APIs that developers dream about |
+| React components that sing | NLP systems that uanderstand context | APIs that developers dream about |
 | Responsive designs that adapt | TensorFlow models that predict the future | Database schemas that make sense |
 
 </div>
@@ -57,7 +57,9 @@ I don't just write code—**I architect digital experiences** that push boundari
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dani-8&layout=compact&theme=graywhite&hide_border=true&langs_count=8" height="200" width="330"/>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Dani-8&theme=icegray&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=220" alt="GitHub Streak" /></a>
+
+[<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Dani-8&theme=icegray&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=220" alt="GitHub Streak" /></a>
+](https://github-readme-streak-stats.herokuapp.com?user=Dani-8&theme=icegray&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=220)
 
 </div>
 
