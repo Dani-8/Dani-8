@@ -21,7 +21,7 @@ I'm Daniyal — a **Self-driven Developer** who's passionate about **Web Develop
 
 ---
 
-## 💎 **SKILL ARSENAL**
+## 💎 **MY SKILL**
 
 <div align="center">
 
@@ -71,7 +71,7 @@ I'm Daniyal — a **Self-driven Developer** who's passionate about **Web Develop
 
 
 
-## 🚀 **LET'S BUILD SOMETHING LEGENDARY**
+## ✨ **WANNA COLLABORATE?**
 
 <div align="center">
 
