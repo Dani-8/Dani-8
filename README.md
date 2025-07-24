@@ -11,6 +11,8 @@
 
 > *"Learning, building, and growing every day."*
 
+<br>
+
 I'm Daniyal — a **Self-driven Developer** who's passionate about **Web Development**, **Data Science**, and **Python**. I'm building **Web Apps** and exploring **AI Projects** using **Flask**, **TensorFlow**, and **Modern Web Tools**.
 
 <br> 
@@ -23,7 +25,7 @@ I'm Daniyal — a **Self-driven Developer** who's passionate about **Web Develop
 
 ---
 
-## 💎 **MY SKILL**
+## 💎 **MY FOCUSED SKILLS**
 
 <div align="center">
 
