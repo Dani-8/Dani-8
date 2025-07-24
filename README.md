@@ -3,12 +3,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=DANIYAL&fontSize=80&fontAlignY=35&descAlignY=55&descAlign=50"/>
 
-### 🌟 **CRAFTING THE FUTURE, ONE LINE AT A TIME** 🌟
-
-**`Full-Stack Sorcerer`** • **`AI Whisperer`** • **`Data Alchemist`**
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=%23A94A4A&center=true&vCenter=true&width=600&lines=Building+Tomorrow's+Web+Today;Turning+Coffee+Into+Code+%E2%98%95;Deep+Learning+%26+Neural+Networks;Flask+%7C+TensorFlow+%7C+React+Master;Where+Innovation+Meets+Execution)
-
 ---
 
 </div>
