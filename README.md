@@ -75,7 +75,7 @@ I'm Daniyal — a **Self-driven Developer** who's passionate about **Web Develop
 
 
 
-## ✨ **WANNA COLLABORATE?**
+## 💬 **SAY HELLO**
 
 <div align="center">
 
