@@ -9,7 +9,7 @@
 
 ## 🎯 **ABOUT ME**
 
-> *"Learning, building, and growing every day."*
+> *"Learning, building with effort, and growing every day."*
 
 <br>
 
