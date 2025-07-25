@@ -81,10 +81,10 @@ I'm Daniyal — a **Self-driven Developer** who's passionate about **Web Develop
 
 ### **Ready to turn your vision into reality?**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniyal-s-247816325/)
 [![Email](https://img.shields.io/badge/Email-Drop_a_Line-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniyalw6190@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Let's_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923292244017)
 [![Instagram](https://img.shields.io/badge/Instagram-Connect_Here-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daniyals6190/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Let's_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923292244017)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniyal-s-247816325/)
 [![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100064155986011)
 
 ---
