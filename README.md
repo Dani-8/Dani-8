@@ -64,8 +64,9 @@ I'm Daniyal — a **Self-driven Developer** who's passionate about **Web Develop
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dani-8&layout=compact&theme=graywhite&hide_border=true&langs_count=8" height="200" width="330"/>
 
 
-[<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Dani-8&theme=icegray&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=220" alt="GitHub Streak" /></a>
-](https://github-readme-streak-stats.herokuapp.com?user=Dani-8&theme=icegray&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=220)
+![](https://nirzak-streak-stats.vercel.app/?user=dani-8&theme=icegray&card_width=500&card_height=220&border_radius=15&hide_border=false)<br/>
+
+
 
 </div>
 
