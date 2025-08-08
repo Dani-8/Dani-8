@@ -70,7 +70,15 @@ I'm Daniyal — a **Self-driven Developer** who's passionate about **Web Develop
 
 </div>
 
+---
 
+### 🔝 Top Contributed Repo
+
+<div align="center">
+  
+![](https://github-contributor-stats.vercel.app/api?username=dani-8&limit=5&theme=graywhite&combine_all_yearly_contributions=true)
+
+</div>
 
 ---
 
