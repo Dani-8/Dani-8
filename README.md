@@ -67,12 +67,12 @@ I'm Daniyal — a **Self-driven Developer** who's passionate about **Web Develop
 ![](https://nirzak-streak-stats.vercel.app/?user=dani-8&theme=icegray&card_width=500&card_height=220&border_radius=15&hide_border=false)<br/>
 
 
-<p>for testing the above one!!!</p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dani-8&theme=radical&hide_border=true" height="160px"/>
+<!-- <p>for testing the above one!!!</p> -->
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dani-8&theme=radical&hide_border=true" height="160px"/> -->
 
-<p>These 2 are same just diff link</p>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Dani-8&theme=dark" alt="GitHub Streak" /></a>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dani-8&theme=dark)](https://git.io/streak-stats)
+<!-- <p>These 2 are same just diff link</p> -->
+<!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Dani-8&theme=dark" alt="GitHub Streak" /></a> -->
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dani-8&theme=dark)](https://git.io/streak-stats) -->
 
 
 </div>
