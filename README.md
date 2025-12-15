@@ -69,7 +69,10 @@ I'm Daniyal — a **Self-driven Developer** who's passionate about **Web Develop
 
 <p>for testing the above one!!!</p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dani-8&theme=radical&hide_border=true" height="160px"/>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Dani-8&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a>
+
+<p>These 2 are same just diff link</p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Dani-8&theme=dark" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dani-8&theme=dark)](https://git.io/streak-stats)
 
 
 </div>
