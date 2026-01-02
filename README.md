@@ -59,12 +59,22 @@ I'm Daniyal — a **Self-driven Developer** who's passionate about **Web Develop
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dani-8&show_icons=true&theme=graywhite&hide_border=false&count_private=true&include_all_commits=true" height="180"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Dani-8&show_icons=true&theme=graywhite&hide_border=false&count_private=true&include_all_commits=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dani-8&layout=compact&theme=graywhite&hide_border=false&langs_count=8" height="200" width="330"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dani-8&layout=compact&theme=graywhite&hide_border=false&langs_count=8" height="200" width="330"/> -->
+<div style="display: flex;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Dani-8's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Dani-8&show_icons=true&theme=graywhite&hide_border=false&count_private=true&include_all_commits=true" height="180"/>
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Dani-8's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Dani-8&layout=compact&theme=graywhite&hide_border=false&langs_count=8" height="200" width="330"/>
+  </a>
+</div>
 
 
-![](https://nirzak-streak-stats.vercel.app/?user=dani-8&theme=icegray&card_width=500&card_height=220&border_radius=15&hide_border=false)<br/>
+
+<!-- ![](https://nirzak-streak-stats.vercel.app/?user=dani-8&theme=icegray&card_width=500&card_height=220&border_radius=15&hide_border=false)<br/> -->
 
   <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -72,6 +82,8 @@ I'm Daniyal — a **Self-driven Developer** who's passionate about **Web Develop
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dani-8's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Dani-8&theme=icegray&card_width=500&card_height=220&border_radius=15&hide_border=false"/>
     </a>
   </p>
+
+  
 <!-- <p>for testing the above one!!!</p> -->
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dani-8&theme=radical&hide_border=true" height="160px"/> -->
 
