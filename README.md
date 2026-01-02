@@ -74,12 +74,11 @@ I'm Daniyal — a **Self-driven Developer** who's passionate about **Web Develop
 
 
 
-<!-- ![](https://nirzak-streak-stats.vercel.app/?user=dani-8&theme=icegray&card_width=500&card_height=220&border_radius=15&hide_border=false)<br/> -->
+  ![](https://nirzak-streak-stats.vercel.app/?user=dani-8&theme=icegray&card_width=500&card_height=220&border_radius=15&hide_border=false)<br/>
 
   <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dani-8's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Dani-8&theme=icegray&card_width=500&card_height=220&border_radius=15&hide_border=false"/>
+      <img alt="Dani-8's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Dani-8&theme=icegray&card_width=500&card_height=220&border_radius=15&hide_border=false"/>
     </a>
   </p>
 
