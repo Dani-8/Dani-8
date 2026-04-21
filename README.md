@@ -48,7 +48,7 @@ I'm Daniyal — a **Self-driven Developer** who's passionate about **Web Develop
 | 🎨 **Frontend Magic** | 🧠 **AI Innovation** | ⚙️ **Backend Power** |
 |:---:|:---:|:---:|
 | Pixel-perfect UIs that users love | Deep learning models that actually work | Scalable architectures that never break |
-| React components that sing | NLP systems that uanderstand context | APIs that developers dream about |
+| React components that sing | NLP systems that understand context | APIs that developers dream about |
 | Responsive designs that adapt | TensorFlow models that predict the future | Database schemas that make sense |
 
 </div>
@@ -73,7 +73,7 @@ I'm Daniyal — a **Self-driven Developer** who's passionate about **Web Develop
 </div>
 
 
-<!-- ![](https://nirzak-streak-stats.vercel.app/?user=dani-8&theme=icegray&card_width=500&card_height=220&border_radius=15&hide_border=false)<br/>  -->
+ <!-- ![](https://nirzak-streak-stats.vercel.app/?user=Dani-8&theme=icegray&card_width=500&card_height=220&border_radius=15&hide_border=false)<br/>  -->
 
    <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
