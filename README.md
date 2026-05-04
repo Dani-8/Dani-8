@@ -65,7 +65,7 @@ I'm Daniyal — a **Self-driven Developer** who's passionate about **Web Develop
 
  <!-- ![](https://nirzak-streak-stats.vercel.app/?user=Dani-8&theme=icegray&card_width=500&card_height=220&border_radius=15&hide_border=false)<br/>  -->
 
- [![GitHub Streak](https://streak-stats.demolab.com/?user=Dani-8&theme=icegray&card_width=500&card_height=220&border_radius=15&hide_border=false)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=Dani-8&theme=icegray&card_width=500&card_height=200&border_radius=15&hide_border=false)](https://git.io/streak-stats)
 
  <!-- <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
