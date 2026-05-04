@@ -4,7 +4,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hey%20👋%20What's%20up?&fontSize=80&fontAlignY=35&descAlignY=55&descAlign=50"/>
 
 ---
-
 </div>
 
 ## 🎯 **ABOUT ME**
@@ -59,27 +58,20 @@ I'm Daniyal — a **Self-driven Developer** who's passionate about **Web Develop
 
 <div align="center">
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Dani-8&show_icons=true&theme=graywhite&hide_border=false&count_private=true&include_all_commits=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dani-8&layout=compact&theme=graywhite&hide_border=false&langs_count=8" height="200" width="330"/> -->
-<div style="display: flex;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Dani-8's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Dani-8&show_icons=true&theme=graywhite&hide_border=false&count_private=true&include_all_commits=true" height="180"/>
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Dani-8's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Dani-8&layout=compact&theme=graywhite&hide_border=false&langs_count=8" height="200" width="330"/>
-  </a>
-</div>
-
+<p align="center">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Dani-8&show_icons=true&border_radius=15&theme=graywhite&hide_border=false&count_private=true&include_all_commits=true" height="165"/>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Dani-8&border_radius=15&layout=compact&theme=graywhite&hide_border=false&langs_count=8" height="200"/>
+</p>
 
  <!-- ![](https://nirzak-streak-stats.vercel.app/?user=Dani-8&theme=icegray&card_width=500&card_height=220&border_radius=15&hide_border=false)<br/>  -->
 
-   <p>
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=Dani-8&theme=icegray&card_width=500&card_height=220&border_radius=15&hide_border=false)](https://git.io/streak-stats)
+
+ <!-- <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
       <img alt="Dani-8's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Dani-8&theme=icegray&card_width=500&card_height=220&border_radius=15&hide_border=false"/>
     </a>
-  </p> 
+  </p>  -->
 
 </div>
 
