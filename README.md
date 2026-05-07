@@ -1,16 +1,23 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hey%20👋%20What's%20up?&fontSize=80&fontAlignY=35&descAlignY=55&descAlign=50"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hey%20👋%20What's%20up?&fontSize=80&fontAlignY=35&descAlignY=55&descAlign=50"/> -->
+
+<img src="./assets/Header.png">
 
 ---
 </div>
+
+
+
 
 ## 🎯 **ABOUT ME**
 
 > *"Learning, building with effort, and growing every day."*
 
 <br>
+<!-- 
+<img align="right" alt="coding" height="220" width="450" src="./assets/Gemini_Generated_Image_z0art4z0art4z0ar.png"> -->
+
 
 I'm Daniyal — a **Self-driven Developer** who's passionate about **Web Development**, **Data Science**, and **Python**. I'm building **Web Apps** and exploring **AI Projects** using **Flask**, **TensorFlow**, and **Modern Web Tools**.
 
@@ -21,6 +28,9 @@ I'm Daniyal — a **Self-driven Developer** who's passionate about **Web Develop
 🎨 **Interests**: Deep learning models and NLP projects
 
 🌟 **Jobless but not passionless or unskilled — ready for the right opportunity!**
+
+
+
 
 ---
 
