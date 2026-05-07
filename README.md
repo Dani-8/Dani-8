@@ -2,7 +2,7 @@
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hey%20👋%20What's%20up?&fontSize=80&fontAlignY=35&descAlignY=55&descAlign=50"/> -->
 
-<img src="./assets/Header.png">
+<img src="./assets/svgs/Header.svg">
 
 ---
 
