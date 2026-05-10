@@ -108,6 +108,8 @@ I'm Daniyal — a **Self-driven Developer** who's passionate about **Web Develop
 
 <img src="./assets/svgs/Footer.svg">
 
+<br>
+
 **⭐ If you find my work interesting, consider giving it a star!**  
 **🔥 Open to collaborations on innovative projects**
 
