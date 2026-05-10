@@ -104,7 +104,10 @@ I'm Daniyal — a **Self-driven Developer** who's passionate about **Web Develop
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling"/> -->
+
+<img src="./assets/svgs/Footer.svg">
+
 
 <br> 
 <br> 
