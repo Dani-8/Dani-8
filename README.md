@@ -64,12 +64,12 @@ I'm Daniyal — a **Self-driven Developer** who's passionate about **Web Develop
 
 ## 🏆 **SOMETHING NEW HERE**
 
-<div align="left" style="display:flex; gap:5px; background-color:red;">
+<div align="left" style="display:flex; gap:5px; background-color:;">
 
   <div id="left">
 
   <div id="tl">
-    <img style="background:blue;" src="./ChatGPT Image May 25, 2026, 11_42_31 AM.png" height="270" width="550">
+    <img style="background:;" src="./ChatGPT Image May 25, 2026, 11_42_31 AM.png" height="270" width="550">
   </div>
 
   <div>
@@ -81,7 +81,7 @@ I'm Daniyal — a **Self-driven Developer** who's passionate about **Web Develop
   </div>
 
   <div id="tr">
-    <img style="background:blue;" src="./7acfcd2f-7aa8-4876-9356-0f92ee40125e.png" height="350" width="260">
+    <img style="background:;" src="./7acfcd2f-7aa8-4876-9356-0f92ee40125e.png" height="350" width="260">
 
     
   <div>
