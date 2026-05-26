@@ -61,10 +61,10 @@ I'm Daniyal — a **Self-driven Developer** who's passionate about **Web Develop
 
 </div>
 
-
+<!-- 
 ## 🏆 **SOMETHING NEW HERE**
 
-<div style="display:flex;" align="left">
+<div>
 
   <div id="left">
 
@@ -84,12 +84,12 @@ I'm Daniyal — a **Self-driven Developer** who's passionate about **Web Develop
     <img style="background:;" src="./7acfcd2f-7aa8-4876-9356-0f92ee40125e.png" height="350" width="260">
 
     
-  <div>
+   <div>
     <img src="./ChatGPT Image May 27, 2026, 12_32_07 AM.png" height="180" width="260">
-  </div>
+   </div>
   </div>
 
-</div>
+</div> -->
 
 ---
 
