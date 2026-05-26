@@ -64,7 +64,7 @@ I'm Daniyal — a **Self-driven Developer** who's passionate about **Web Develop
 
 ## 🏆 **SOMETHING NEW HERE**
 
-<div align="left" style="display:flex; gap:5px; background-color:;">
+<div align="left" style="display:flex; gap:0px; background-color:;">
 
   <div id="left">
 
