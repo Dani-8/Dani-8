@@ -31,21 +31,19 @@ I'm Daniyal — a **Self-driven Developer** who's passionate about **Web Develop
 🌟 **Jobless but not passionless or unskilled — ready for the right opportunity!**
 
 
-
-
 ---
 
 ## 💎 **MY FOCUSED SKILLS**
 
 <div align="center">
   
-| 🌐 **Web Development** | 🐍 **Backend & Database Systems** | 🛠️ **Development Tools & Workflow** | 🧠 **AI & Data Science** |
-|:---:|:---:|:---:|:---:|
-| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge) | ![Python](https://img.shields.io/badge/-Python-3e82f1?logo=python&logoColor=white&style=for-the-badge) | ![VS Code](https://img.shields.io/badge/-VS_Code-d82463?logo=visualstudiocode&logoColor=white&style=for-the-badge) | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge) |
-| ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css&logoColor=white&style=for-the-badge) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge) | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge) |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) | ![MySQL](https://img.shields.io/badge/-MySQL-81bd08?logo=mysql&logoColor=black&style=for-the-badge) | ![GitHub](https://img.shields.io/badge/-GitHub-100000?logo=github&logoColor=white&style=for-the-badge) | ![NumPy](https://img.shields.io/badge/-NumPy-527ad1?logo=numpy&logoColor=white&style=for-the-badge) |
-| ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge) | ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge) |  | ![Scikit Learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge) |
-| ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge) |  |  |  |
+|                                               🌐 **Web Development**                                                |                                          🐍 **Backend & Database Systems**                                          |                                         🛠️ **Development Tools & Workflow**                                         |                                                  🧠 **AI & Data Science**                                                  |
+| :----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: |
+|        ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)         |       ![Python](https://img.shields.io/badge/-Python-3e82f1?logo=python&logoColor=white&style=for-the-badge)       | ![VS Code](https://img.shields.io/badge/-VS_Code-d82463?logo=visualstudiocode&logoColor=white&style=for-the-badge) |    ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)     |
+|          ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css&logoColor=white&style=for-the-badge)           | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge) |           ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)            |          ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)           |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) |        ![MySQL](https://img.shields.io/badge/-MySQL-81bd08?logo=mysql&logoColor=black&style=for-the-badge)         |       ![GitHub](https://img.shields.io/badge/-GitHub-100000?logo=github&logoColor=white&style=for-the-badge)       |            ![NumPy](https://img.shields.io/badge/-NumPy-527ad1?logo=numpy&logoColor=white&style=for-the-badge)            |
+|        ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)        |        ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge)         |                                                                                                                    | ![Scikit Learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge) |
+|       ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)       |                                                                                                                    |                                                                                                                    |                                                                                                                           |
 
 </div>
 
@@ -55,11 +53,43 @@ I'm Daniyal — a **Self-driven Developer** who's passionate about **Web Develop
 
 <div align="center">
 
-| 🎨 **Frontend Magic** | 🧠 **AI Innovation** | ⚙️ **Backend Power** |
-|:---:|:---:|:---:|
-| Pixel-perfect UIs that users love | Deep learning models that actually work | Scalable architectures that never break |
-| React components that sing | NLP systems that understand context | APIs that developers dream about |
-| Responsive designs that adapt | TensorFlow models that predict the future | Database schemas that make sense |
+|       🎨 **Frontend Magic**        |            🧠 **AI Innovation**            |           ⚙️ **Backend Power**           |
+| :-------------------------------: | :---------------------------------------: | :-------------------------------------: |
+| Pixel-perfect UIs that users love |  Deep learning models that actually work  | Scalable architectures that never break |
+|    React components that sing     |    NLP systems that understand context    |    APIs that developers dream about     |
+|   Responsive designs that adapt   | TensorFlow models that predict the future |    Database schemas that make sense     |
+
+</div>
+
+
+## 🏆 **SOMETHING NEW HERE**
+
+<div align="left" style="display:flex; gap:5px; background-color:red;">
+
+  <div id="left">
+
+  <div id="tl">
+    <img style="background:blue;" src="./ChatGPT Image May 25, 2026, 11_42_31 AM.png" height="270" width="550">
+  </div>
+
+  <div>
+    <img src="./ChatGPT Image May 23, 2026, 01_35_49 AM.png" height="260" width="164">
+    <img src="./ChatGPT Image May 23, 2026, 01_35_56 AM.png" height="260" width="164">
+    <img src="./ChatGPT Image May 23, 2026, 01_35_59 AM.png" height="260" width="164">
+  </div>
+
+  </div>
+
+  <div id="tr">
+    <img style="background:blue;" src="./7acfcd2f-7aa8-4876-9356-0f92ee40125e.png" height="350" width="260">
+
+    
+  <div>
+    <img src="./ChatGPT Image May 27, 2026, 12_32_07 AM.png" height="180" width="260">
+  </div>
+  </div>
+
+  
 
 </div>
 
