@@ -72,7 +72,7 @@ I'm Daniyal — a **Self-driven Developer** who's passionate about **Web Develop
     <img style="background:;" src="./ChatGPT Image May 25, 2026, 11_42_31 AM.png" height="270" width="550">
   </div>
 
-  <div>
+  <div style="display:flex; flex-wrap:nowrap;">
     <img src="./ChatGPT Image May 23, 2026, 01_35_49 AM.png" height="260" width="164">
     <img src="./ChatGPT Image May 23, 2026, 01_35_56 AM.png" height="260" width="164">
     <img src="./ChatGPT Image May 23, 2026, 01_35_59 AM.png" height="260" width="164">
@@ -88,8 +88,6 @@ I'm Daniyal — a **Self-driven Developer** who's passionate about **Web Develop
     <img src="./ChatGPT Image May 27, 2026, 12_32_07 AM.png" height="180" width="260">
   </div>
   </div>
-
-  
 
 </div>
 
