@@ -73,9 +73,9 @@ I'm Daniyal — a **Self-driven Developer** who's passionate about **Web Develop
   </div>
 
   <div style="display:flex; flex-wrap:nowrap;">
-    <img src="./ChatGPT Image May 23, 2026, 01_35_49 AM.png" height="260" width="164">
-    <img src="./ChatGPT Image May 23, 2026, 01_35_56 AM.png" height="260" width="164">
-    <img src="./ChatGPT Image May 23, 2026, 01_35_59 AM.png" height="260" width="164">
+    <img src="./ChatGPT Image May 23, 2026, 01_35_49 AM.png" style="width:180px; height:260px;">
+    <img src="./ChatGPT Image May 23, 2026, 01_35_56 AM.png" style="width:180px; height:260px;">
+    <img src="./ChatGPT Image May 23, 2026, 01_35_59 AM.png" style="width:180px; height:260px;">
   </div>
 
   </div>
