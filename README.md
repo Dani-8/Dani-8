@@ -10,7 +10,6 @@
 
 
 
-
 ## 🎯 **ABOUT ME**
 
 > *"Learning, building with effort, and growing every day."*
@@ -115,6 +114,7 @@ I'm Daniyal — a **Self-driven Developer** who's passionate about **Web Develop
 </div>
 
 ---
+
 
 
 
