@@ -101,9 +101,10 @@ I'm Daniyal — a **Self-driven Developer** who's passionate about **Web Develop
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Dani-8&border_radius=15&layout=compact&theme=graywhite&hide_border=false&langs_count=8" height="200"/>
 </p>
 
-<!-- ![](https://nirzak-streak-stats.vercel.app/?user=Dani-8&theme=icegray&card_width=500&card_height=220&border_radius=15&hide_border=false)<br/>  -->
+<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dani-8&theme=icegray&border_radius=15&card_width=500&card_height=220" alt="GitHub Streak" /></a> -->
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dani-8&theme=icegray&border_radius=15&card_width=500&card_height=220" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dani-8&theme=icegray&border_radius=15&card_width=500&card_height=220)](https://git.io/streak-stats)
+
 
 <!-- <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
