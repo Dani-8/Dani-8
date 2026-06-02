@@ -102,8 +102,8 @@ I'm Daniyal — a **Self-driven Developer** who's passionate about **Web Develop
 </p>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dani-8&theme=icegray&border_radius=15&card_width=500&card_height=220)](https://git.io/streak-stats)
-<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Dani-8&theme=icegray&border_radius=15&card_width=500&card_height=220" alt="GitHub Streak" /></a> -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dani-8&theme=icegray&border_radius=15)](https://git.io/streak-stats)
+<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Dani-8&theme=icegray&border_radius=15" alt="GitHub Streak" /></a> -->
 
 
 <!-- <p>
