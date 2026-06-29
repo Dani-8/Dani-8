@@ -7,6 +7,9 @@
           height: 1242px;
           background: transparent;
           <!-- background: red; -->
+          <!-- background: red; -->
+          <!-- background: red; -->
+          <!-- background: red; -->
           border-radius: 30px;
           display: flex;
           align-items: center;
