@@ -5,8 +5,8 @@
         .container {
           width: 1210px;
           height: 1242px;
-          <!-- background: red; -->
           background: transparent;
+          <!-- background: red; -->
           border-radius: 30px;
           display: flex;
           align-items: center;
