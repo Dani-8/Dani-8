@@ -102,9 +102,9 @@ I'm Daniyal — a **Self-driven Developer** who's passionate about **Web Develop
 </p>
 
 
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Dani-8&theme=icegray&border_radius=14)](https://git.io/streak-stats) -->
+ [![GitHub Streak](https://streak-stats.demolab.com?user=Dani-8&theme=icegray&border_radius=14)](https://git.io/streak-stats)
 <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Dani-8&theme=icegray&border_radius=15" alt="GitHub Streak" /></a> -->
-[![🔥 Streak - Dani-8](https://streak-stats.demolab.com?user=Dani-8&theme=icegray&border_radius=12)](https://github.com/Dani-8)
+<!-- [![🔥 Streak - Dani-8](https://streak-stats.demolab.com?user=Dani-8&theme=icegray&border_radius=12)](https://github.com/Dani-8) -->
 <!-- [![🔥 Streak - Dani-8](https://streak-stats.demolab.com?user=Dani-8&theme=icegray)](https://github.com/Dani-8) -->
 
 
