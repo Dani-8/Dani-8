@@ -14,8 +14,8 @@
 > *"Learning, building with effort, and growing every day."*
 
 <br>
-<!-- 
-<img align="right" alt="coding" height="220" width="450" src="./assets/Gemini_Generated_Image_z0art4z0art4z0ar.png"> -->
+
+<!-- <img align="right" alt="coding" height="220" width="450" src="./assets/Gemini_Generated_Image_z0art4z0art4z0ar.png"> -->
 
 
 I'm Daniyal — a **Self-driven Developer** who's passionate about **Web Development**, **Data Science**, and **Python**. I'm building **Web Apps** and exploring **AI Projects** using **Flask**, **TensorFlow**, and **Modern Web Tools**.
