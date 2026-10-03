@@ -18,16 +18,13 @@
 <!-- <img align="right" alt="coding" height="220" width="450" src="./assets/Gemini_Generated_Image_z0art4z0art4z0ar.png"> -->
 
 
-I'm Daniyal — a **Self-driven Developer** who's passionate about **Web Development**, **Data Science**, and **Python**. I'm building **Web Apps** and exploring **AI Projects** using **Flask**, **TensorFlow**, and **Modern Web Tools**.
+I'm Daniyal — a **Self-driven Developer** who's passionate about **AI Engineering**, **MERN Stack**, and **Modern Software Development**. I'm building production-ready web apps and exploring advanced AI/ML projects.
 
 <br> 
 
-🔥 **Currently Learning**: React and exploring Git/GitHub automation  
-⚡ **Focus**: End-to-end web applications with Flask/Django  
-🎨 **Interests**: Deep learning models and NLP projects
-
-🌟 **Jobless but not passionless or unskilled — ready for the right opportunity!**
-
+🔥 **Currently Learning**: Advanced AI engineering architectures and multi-agent systems  
+⚡ **Focus**: Building full-stack MERN applications and scalable AI-driven solutions  
+🎨 **Interests**: System architecture, open-source contribution, and building developer tools
 
 ---
 
