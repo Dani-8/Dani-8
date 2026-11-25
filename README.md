@@ -93,7 +93,7 @@ I'm Daniyal — a **Self-driven Developer** who's passionate about **AI Engineer
 <div align="center">
 
 <p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Dani-8&show_icons=true&border_radius=15&theme=graywhite&hide_border=false&count_private=true&include_all_commits=true" height="190"/>
+  <img src="https://github-stats-extended.vercel.app/api/?username=Dani-8&show_icons=true&border_radius=15&theme=graywhite&hide_border=false&count_private=true&include_all_commits=true" height="190"/>
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Dani-8&border_radius=15&layout=compact&theme=graywhite&hide_border=false&langs_count=8" height="200"/>
 </p>
 
